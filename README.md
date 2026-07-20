@@ -115,7 +115,7 @@ images/dashboard.png
 
 **Vaibhav Saini**
 
-LinkedIn: https://www.linkedin.com/messaging/compose/?screenContext=NON_SELF_PROFILE_VIEW&body=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvaibhav-saini-60b332359&interop=msgOverlay&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Buz46l1mRTLmJIeY0tIZrog%3D%3D
+LinkedIn: https://www.linkedin.com/in/vaibhav-saini-60b332359/
 
 ---
 
