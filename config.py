@@ -1,0 +1,3 @@
+API_KEY = "15a071a959b1220174310d5ed306d857"
+CITY = "Sambhal"
+UNITS = "metric"
